@@ -1,10 +1,10 @@
 # Francisco Mesquita
 
-## About Me
+## About me
 
 <div style="display: flex; align-items: center;">
     <img src="assets/ProfilePic.jpg" alt="Image" style="width: 150px; height: auto; margin-right: 20px;">
-    <p>I´m a positive person that sees challenges as a way to evolve and always try to learn something from the experiences I have. Professionally I am more interested in working on Data Science and Machine Learning related fields. However I do not exclude the possibility of working and exploring other positions related to computer engineering</p>
+    <p>"I am a highly motivated computer engineer, with a degree from the Polytechnic of Coimbra. Currently, I am finishing my master's degree in Computer Engineering with a specialization in Intelligent Data Analysis. My academic journey has created in me a deep passion for autonomous and constant learning.</p>
 </div>
 
 ## Another thing
