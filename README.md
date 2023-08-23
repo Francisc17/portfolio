@@ -1,5 +1,7 @@
 # Francisco Mesquita
 
+---
+
 ## About me
 
 <div style="display: flex; align-items: center;">
@@ -7,4 +9,24 @@
     <p>"I am a highly motivated computer engineer, with a degree from the Polytechnic of Coimbra. Currently, I am finishing my master's degree in Computer Engineering with a specialization in Intelligent Data Analysis. My academic journey has created in me a deep passion for autonomous and constant learning.</p>
 </div>
 
-## Another thing
+---
+
+## Projects
+
+**Project x:** sioajdiojsadiojasiodjassaodpjasiodjasiojdasiodjioasjdioasjdioasjdioasjdioasjdasiop+djaspdjaspodjasiopdjaiopsjdaiopsjdiopasjdasopijdas.
+
+**Project Y:** ashdasuhduasihdasuiohdyuiasgdxyuiasgxyuasbhdcbnasclbhasuiolgcbyuioasgxyuioagbasbxahjksbxajksgdcyuiasgtcbashjxbashjkbxayuisgcdbashxbashjkxbasyudfgasdb.
+
+**Project W:** asuiohdauioshduiashndjasncasjklhncasuhdsaudhasjxnasjklndhjasiopdhjasnxasklnipadojsaiojd
+
+
+## Research
+
+
+## Learning
+
+
+## Non-technical skills
+
+
+## Technical skills
