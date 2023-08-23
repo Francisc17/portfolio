@@ -1,6 +1,6 @@
 title: The title of your site
-#logo: /assets/img/headshot_circle.png
-description: text below image
+logo: /assets/ProfilePic.jpg
+description: I am Computer Engineer with a strong interest in the study, research and application of machine learning and deep learning algorithms
 show_downloads: false
 theme: jekyll-theme-Cayman
 
