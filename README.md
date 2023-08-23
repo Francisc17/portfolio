@@ -11,7 +11,8 @@
 
 ## Projects
 
-**Project x:** sioajdiojsadiojasiodjassaodpjasiodjasiojdasiodjioasjdioasjdioasjdioasjdioasjdasiop+djaspdjaspodjasiopdjaiopsjdaiopsjdiopasjdasopijdas.
+**[Interpretable Hearth Disease ML Classifier](https://github.com/Francisc17/Hearth-Disease-Interpretability-Research): Analysis of clinical data with the aim of predicting whether or not a particular patient suffers from heart disease.**
+<span style="background-color: yellow;">Pandas</span>  <span style="background-color: green;">Seaborn</span>  <span style="background-color: red;">scikit-learn</span>  <span style="background-color: blue;">PyCaret</span>
 
 **Project Y:** ashdasuhduasihdasuiohdyuiasgdxyuiasgxyuasbhdcbnasclbhasuiolgcbyuioasgxyuioagbasbxahjksbxajksgdcyuiasgtcbashjxbashjkbxayuisgcdbashxbashjkxbasyudfgasdb.
 
@@ -32,6 +33,8 @@ International Symposium on Ubiquitous Networking - 11 December 2021 <br>
 ---
 
 ## Learning
+
+
 
 
 ## Non-technical skills
