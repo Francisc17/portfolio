@@ -21,7 +21,7 @@ An analysis of clinical data to predict heart disease in patients.
 - <span style="color: #FFA500;">PyCaret</span> - Automated machine learning
 - <span style="color: #9400D3;">SHapley Additive exPlanations (SHAP)</span> - Explainable AI
 
-### [English to Cherokee Translator using Transformers](https://github.com/Francisc17/Heart-Disease-Interpretability-Research](https://github.com/Francisc17/Translator-English-to-Cherokee)
+### [English to Cherokee Translator using Transformers](https://github.com/Francisc17/Translator-English-to-Cherokee)
 A detailed description of Project Y.
 
 **Project W:**
