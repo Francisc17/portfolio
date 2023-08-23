@@ -11,8 +11,12 @@
 
 ## Projects
 
-**[Interpretable Hearth Disease ML Classifier](https://github.com/Francisc17/Hearth-Disease-Interpretability-Research): Analysis of clinical data with the aim of predicting whether or not a particular patient suffers from heart disease.**
-<span style="background-color: yellow;">Pandas</span>  <span style="background-color: green;">Seaborn</span>  <span style="background-color: red;">scikit-learn</span>  <span style="background-color: blue;">PyCaret</span>
+**[Interpretable Hearth Disease ML Classifier](https://github.com/Francisc17/Hearth-Disease-Interpretability-Research): Analysis of clinical data with the aim of predicting whether or not a particular patient suffers from heart disease.** <br>
+<span style="background-color: yellow; padding: 5px; border-radius: 5px; color: black; font-weight: bold;">Pandas</span>  
+<span style="background-color: green; padding: 5px; border-radius: 5px; color: white; font-weight: bold;">Seaborn</span>  
+<span style="background-color: red; padding: 5px; border-radius: 5px; color: white; font-weight: bold;">scikit-learn</span>  
+<span style="background-color: blue; padding: 5px; border-radius: 5px; color: white; font-weight: bold;">PyCaret</span>  
+<span style="background-color: yellow; padding: 5px; border-radius: 5px; color: black; font-weight: bold;">SHapley Additive exPlanations (SHAP)</span> 
 
 **Project Y:** ashdasuhduasihdasuiohdyuiasgdxyuiasgxyuasbhdcbnasclbhasuiolgcbyuioasgxyuioagbasbxahjksbxajksgdcyuiasgtcbashjxbashjkbxayuisgcdbashxbashjkxbasyudfgasdb.
 
