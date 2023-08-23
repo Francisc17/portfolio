@@ -15,11 +15,11 @@ I am a highly motivated computer engineer, holding a degree from the Polytechnic
 An analysis of clinical data to predict heart disease in patients.
 
 **Technologies Used:**
-- 💡 <span style="color: #FFD700;">Pandas</span> - Data manipulation and analysis
-- 🌈 <span style="color: #008000;">Seaborn</span> - Data visualization
-- 🧬 <span style="color: #FF0000;">scikit-learn</span> - Machine learning models
-- 🚀 <span style="color: #0000FF;">PyCaret</span> - Automated machine learning
-- 🌐 <span style="color: #FFD700;">SHapley Additive exPlanations (SHAP)</span> - Explainable AI
+- <span style="color: #1E90FF;">Pandas</span> - Data manipulation and analysis
+- <span style="color: #008000;">Seaborn</span> - Data visualization
+- <span style="color: #FF4500;">scikit-learn</span> - Machine learning models
+- <span style="color: #FFA500;">PyCaret</span> - Automated machine learning
+- <span style="color: #9400D3;">SHapley Additive exPlanations (SHAP)</span> - Explainable AI
 
 **Project Y:**
 A detailed description of Project Y.
