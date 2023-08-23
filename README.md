@@ -1,7 +1,5 @@
 # Francisco Mesquita
 
-## About Me
-
 <div align="center">
     <img src="assets/ProfilePic.jpg" alt="Image" width="150px" height="auto" style="border-radius: 50%;">
 </div>
@@ -17,11 +15,11 @@ I am a highly motivated computer engineer, holding a degree from the Polytechnic
 An analysis of clinical data to predict heart disease in patients.
 
 **Technologies Used:**
-- <span style="background-color: yellow; padding: 5px; border-radius: 5px; color: black; font-weight: bold;">Pandas</span>
-- <span style="background-color: green; padding: 5px; border-radius: 5px; color: white; font-weight: bold;">Seaborn</span>
-- <span style="background-color: red; padding: 5px; border-radius: 5px; color: white; font-weight: bold;">scikit-learn</span>
-- <span style="background-color: blue; padding: 5px; border-radius: 5px; color: white; font-weight: bold;">PyCaret</span>
-- <span style="background-color: yellow; padding: 5px; border-radius: 5px; color: black; font-weight: bold;">SHapley Additive exPlanations (SHAP)</span>
+- 💡 <span style="color: #FFD700;">Pandas</span> - Data manipulation and analysis
+- 🌈 <span style="color: #008000;">Seaborn</span> - Data visualization
+- 🧬 <span style="color: #FF0000;">scikit-learn</span> - Machine learning models
+- 🚀 <span style="color: #0000FF;">PyCaret</span> - Automated machine learning
+- 🌐 <span style="color: #FFD700;">SHapley Additive exPlanations (SHAP)</span> - Explainable AI
 
 **Project Y:**
 A detailed description of Project Y.
