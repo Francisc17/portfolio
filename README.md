@@ -21,13 +21,13 @@
 
 ## Research
 
-**PREDICTING TYPE 2 DIABETES THROUGH MACHINE LEARNING: PERFORMANCE ANALYSIS IN BALANCED AND IMBALANCED DATA** <br>
+**[PREDICTING TYPE 2 DIABETES THROUGH MACHINE LEARNING: PERFORMANCE ANALYSIS IN BALANCED AND IMBALANCED DATA](https://link.springer.com/chapter/10.1007/978-3-030-86356-2_22)** <br>
 International Symposium on Ubiquitous Networking - 11 December 2021 <br>
-https://link.springer.com/chapter/10.1007/978-3-030-86356-2_22
 
-**Oversampling techniques for diabetes classification: A comparative study** <br>
+
+**[Oversampling techniques for diabetes classification: A comparative study](https://ieeexplore.ieee.org/abstract/document/9657542)** <br>
 2021 International Conference on e-Health and Bioengineering (EHB) - 31 December 2021. <br>
-https://ieeexplore.ieee.org/abstract/document/9657542
+
 
 ---
 
