@@ -2,7 +2,9 @@
 
 ## About Me
 
-| <img src="assets/ProfilePic.jpg" alt="Image Description" style="width: 100%; height: 100%;">| I´m a positive person that sees challenges as a way to evolve and always try to learn something from the experiences I have. Professionally I am more interested in working on Data Science and Machine Learning related fields. However I do not exclude the possibility of working and exploring other positions related to computer engineering |
-
+<div style="display: flex; align-items: center;">
+    <img src="assets/ProfilePic.jpg" alt="Image" style="width: 200px; height: auto; margin-right: 20px;">
+    <p>Your text goes here. This text will appear to the right of the image.</p>
+</div>
 
 ## Another thing
