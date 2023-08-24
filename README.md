@@ -16,27 +16,27 @@ An analysis of clinical data to predict heart disease in patients.
 
 **Technologies Used:**
 <div style="background-color: #28a745; color: white; padding: 10px; border-radius: 5px; margin: 10px 0;">
-    <img src="green-check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
+    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
     <span style="font-weight: bold;">Pandas</span> - Data manipulation and analysis
 </div>
 
 <div style="background-color: #28a745; color: white; padding: 10px; border-radius: 5px; margin: 10px 0;">
-    <img src="green-check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
+    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
     <span style="font-weight: bold;">Seaborn</span> - Data visualization
 </div>
 
 <div style="background-color: #28a745; color: white; padding: 10px; border-radius: 5px; margin: 10px 0;">
-    <img src="green-check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
+    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
     <span style="font-weight: bold;">scikit-learn</span> - Machine learning models
 </div>
 
 <div style="background-color: #28a745; color: white; padding: 10px; border-radius: 5px; margin: 10px 0;">
-    <img src="green-check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
+    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
     <span style="font-weight: bold;">PyCaret</span> - Automated machine learning
 </div>
 
 <div style="background-color: #28a745; color: white; padding: 10px; border-radius: 5px; margin: 10px 0;">
-    <img src="green-check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
+    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
     <span style="font-weight: bold;">SHapley Additive exPlanations (SHAP)</span> - Explainable AI
 </div>
 
