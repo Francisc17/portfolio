@@ -12,9 +12,8 @@ I am a highly motivated computer engineer, holding a degree from the Polytechnic
 
 ### [Interpretable Heart Disease ML Classifier](https://github.com/Francisc17/Heart-Disease-Interpretability-Research)
 
-An analysis of clinical data to predict heart disease in patients.
+An analysis of clinical data to predict heart disease in patients. The solution focuses on creating an ML model capable of predicting the disease and showing how the algorithm arrived at its prediction. <br>
 
-**Technologies Used:**
 <div>
     <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
     <span style="font-weight: bold;">Pandas</span> - Data manipulation and analysis
@@ -35,7 +34,7 @@ An analysis of clinical data to predict heart disease in patients.
     <span style="font-weight: bold;">PyCaret</span> - Automated machine learning
 </div>
 
-<div style="color: white; padding: 10px; border-radius: 5px; margin: 10px 0;">
+<div>
     <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
     <span style="font-weight: bold;">SHapley Additive exPlanations (SHAP)</span> - Explainable AI
 </div>
