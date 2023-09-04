@@ -98,9 +98,10 @@ This study addresses the prediction of Type 2 diabetes using the "PIMA Indians D
 
 ### [Oversampling Techniques for Diabetes Classification: A Comparative Study](https://ieeexplore.ieee.org/abstract/document/9657542)
 
-This study compares oversampling techniques and machine learning algorithms for diabetes prediction using the unbalanced "PIMA Indian Diabetes Database". It is the continuation of the previous work where it is now evaluated ten ML methods and six oversampling techniques. The authors recommend the SVM SMOTE and AdaBoost combination, as it yielded the best results across various metrics.
+This study compares oversampling techniques and machine learning algorithms for diabetes prediction using the unbalanced "PIMA Indian Diabetes Database". It is the continuation of the previous work where it is now evaluated ten ML methods and six oversampling techniques. The authors recommend the SVM SMOTE and AdaBoost combination, as it yielded the best results across various metrics.<br>
 
 **Presented at the 2021 International Conference on e-Health and Bioengineering (EHB) on 31 December 2021.**
+
 ---
 
 ## Learning
