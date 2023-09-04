@@ -40,7 +40,28 @@ An analysis of clinical data to predict heart disease in patients. The solution 
 </div>
 
 ### [English to Cherokee Translator using Transformers](https://github.com/Francisc17/Translator-English-to-Cherokee)
-A detailed description of Project Y.
+Using Transformers to create an English translator for Cherokee. Different techniques were used to prepare the data and different pre-trained architectures such as BERT, Helsinki NLP and mBART were applied in order to try and get the best result. <br>
+
+<div>
+    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
+    <span style="font-weight: bold;">Pandas</span> - Data manipulation and analysis
+</div>
+
+<div>
+    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
+    <span style="font-weight: bold;">Tensorflow</span> - Deep Learning framework library
+</div>
+
+<div>
+    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
+    <span style="font-weight: bold;">Simple Transformers</span> - Natural language processing library
+</div>
+
+<div>
+    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
+    <span style="font-weight: bold;">Hugging Face</span> - Open source data science and machine learning platform
+</div>
+
 
 **Project W:**
 A detailed description of Project W.
