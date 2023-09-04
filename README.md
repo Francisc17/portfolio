@@ -63,8 +63,28 @@ Using Transformers to create an English translator for Cherokee. Different techn
 </div>
 
 
-**Project W:**
-A detailed description of Project W.
+**[Interpretation of Convulsional Neural Networks (CNNs)](https://github.com/Francisc17/CNN-Interpretation)**
+Convolutional Neural Network (CNN) interpretation techniques are methods used to gain insights into the decision-making process of CNNs, which are popular deep learning models for tasks like image classification. This work explored nine different techniques for interpreting the network internally and the output it generates. The interpretation techniques used were: GradCAM, Lime, Rise, Saliency Maps, Anchor Explanations, Activation Maximization, Occlusion Sensitivity, Guided Backpropagation, Deep Dream. <br>
+
+<div>
+    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
+    <span style="font-weight: bold;">Pandas</span> - Data manipulation and analysis
+</div>
+
+<div>
+    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
+    <span style="font-weight: bold;">Tensorflow</span> - Deep Learning framework library
+</div>
+
+<div>
+    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
+    <span style="font-weight: bold;">Simple Transformers</span> - Natural language processing library
+</div>
+
+<div>
+    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
+    <span style="font-weight: bold;">Hugging Face</span> - Open source data science and machine learning platform
+</div>
 
 ---
 
