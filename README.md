@@ -73,17 +73,18 @@ Convolutional Neural Network (CNN) interpretation techniques are methods used to
 
 <div>
     <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
+    <span style="font-weight: bold;">Seaborn</span> - Data visualization
+</div>
+
+<div>
+    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
     <span style="font-weight: bold;">Tensorflow</span> - Deep Learning framework library
 </div>
 
-<div>
-    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
-    <span style="font-weight: bold;">Simple Transformers</span> - Natural language processing library
-</div>
 
 <div>
     <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
-    <span style="font-weight: bold;">Hugging Face</span> - Open source data science and machine learning platform
+    <span style="font-weight: bold;">OpenCV</span> - Open source library for computer vision
 </div>
 
 ---
