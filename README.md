@@ -1,6 +1,5 @@
 # Francisco Mesquita
 
-![Profile Picture](assets/ProfilePic.jpg)
 <div align="center">
     <img src="assets/ProfilePic.jpg" alt="Image" width="150px" height="auto" style="border-radius: 50%;">
 </div>
