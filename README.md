@@ -58,7 +58,13 @@ A comparative study on the combination of SMOTE oversampling technique variants 
 
 ## Learning
 
-A section on your learning experiences.
+> "I don't know what's the matter with people: they don't learn by understanding; they learn by some other way - by rote, or something. Their knowledge is so fragile!" - *Richard Feynman*
+
+<div style="background-color: #f2f2f2; padding: 10px; border-left: 6px solid #3498db;">
+    <p style="font-style: italic; color: #555;">
+        "I don't know what's the matter with people: they don't learn by understanding; they learn by some other way - by rote, or something. Their knowledge is so fragile!" - *Richard Feynman*
+    </p>
+</div>
 
 ---
 
