@@ -39,30 +39,6 @@ An analysis of clinical data to predict heart disease in patients. The solution 
     <span style="font-weight: bold;">SHapley Additive exPlanations (SHAP)</span> - Explainable AI
 </div>
 
-### [English to Cherokee Translator using Transformers](https://github.com/Francisc17/Translator-English-to-Cherokee)
-Using Transformers to create an English translator for Cherokee. Different techniques were used to prepare the data and different pre-trained architectures such as BERT, Helsinki NLP and mBART were applied in order to try and get the best result. <br>
-
-<div>
-    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
-    <span style="font-weight: bold;">Pandas</span> - Data manipulation and analysis
-</div>
-
-<div>
-    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
-    <span style="font-weight: bold;">Tensorflow</span> - Deep Learning framework library
-</div>
-
-<div>
-    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
-    <span style="font-weight: bold;">Simple Transformers</span> - Natural language processing library
-</div>
-
-<div>
-    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
-    <span style="font-weight: bold;">Hugging Face</span> - Open source data science and machine learning platform
-</div>
-
-
 ### [Interpretation of Convolutional Neural Networks (CNNs)](https://github.com/Francisc17/CNN-Interpretation)
 Convolutional Neural Network (CNN) interpretation techniques are methods used to gain insights into the decision-making process of CNNs, which are popular deep learning models for tasks like image classification. The interpretation techniques used were: GradCAM, Lime, Rise, Saliency Maps, Anchor Explanations, Activation Maximization, Occlusion Sensitivity, Guided Backpropagation, Deep Dream. <br>
 
@@ -85,6 +61,29 @@ Convolutional Neural Network (CNN) interpretation techniques are methods used to
 <div>
     <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
     <span style="font-weight: bold;">OpenCV</span> - Open source library for computer vision
+</div>
+
+### [English to Cherokee Translator using Transformers](https://github.com/Francisc17/Translator-English-to-Cherokee)
+Using Transformers to create an English translator for Cherokee. Different techniques were used to prepare the data and different pre-trained architectures such as BERT, Helsinki NLP and mBART were applied in order to try and get the best result. <br>
+
+<div>
+    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
+    <span style="font-weight: bold;">Pandas</span> - Data manipulation and analysis
+</div>
+
+<div>
+    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
+    <span style="font-weight: bold;">Tensorflow</span> - Deep Learning framework library
+</div>
+
+<div>
+    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
+    <span style="font-weight: bold;">Simple Transformers</span> - Natural language processing library
+</div>
+
+<div>
+    <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
+    <span style="font-weight: bold;">Hugging Face</span> - Open source data science and machine learning platform
 </div>
 
 ---
