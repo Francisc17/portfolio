@@ -92,14 +92,15 @@ Using Transformers to create an English translator for Cherokee. Different techn
 
 ### [Predicting Type 2 Diabetes through Machine Learning: Performance Analysis in Balanced and Imbalanced Data](https://link.springer.com/chapter/10.1007/978-3-030-86356-2_22)
 
-This study addresses the prediction of Type 2 diabetes using the "PIMA Indians Diabetes Data Set," which is imbalanced. Authors randomly select 268 cases from each class to create a balanced dataset. Four machine learning methods (Neural Network, k-nearest neighbors, Logistic Regression, and AdaBoost) are applied with 10-fold cross-validation. Neural Networks achieve 71.4% and 82.3% accuracy for the original and balanced datasets, respectively. Comparisons with other studies show promising results, with Neural Networks performing well in terms of AUC, F1-Score, Precision, Recall, and specificity when applied to balanced data.<br>
+This study addresses the prediction of Type 2 diabetes using the "PIMA Indians Diabetes database" which is imbalanced. Authors randomly select 268 cases from each class to create a balanced dataset. Four machine learning methods (Neural Network, k-nearest neighbors, Logistic Regression, and AdaBoost) are applied with 10-fold cross-validation. Neural Networks achieve the best results for the original and balanced datasets. Comparisons with other studies show promising results, with Neural Networks performing well in all evaluation metrics when applied to balanced data.<br>
 
 **Presented at the International Symposium on Ubiquitous Networking on 11 December 2021.**
 
 ### [Oversampling Techniques for Diabetes Classification: A Comparative Study](https://ieeexplore.ieee.org/abstract/document/9657542)
 
-Presented at the 2021 International Conference on e-Health and Bioengineering (EHB) on 31 December 2021.
+This study compares oversampling techniques and machine learning algorithms for diabetes prediction using the unbalanced "PIMA Indian Diabetes Database". It is the continuation of the previous work where it is now evaluated ten ML methods and six oversampling techniques. The authors recommend the SVM SMOTE and AdaBoost combination, as it yielded the best results across various metrics.
 
+**Presented at the 2021 International Conference on e-Health and Bioengineering (EHB) on 31 December 2021.**
 ---
 
 ## Learning
