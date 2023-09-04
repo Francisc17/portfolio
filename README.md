@@ -10,7 +10,7 @@ I am a highly motivated computer engineer, holding a degree from the Polytechnic
 
 ## Projects
 
-### [Interpretable Heart Disease ML Classifier](https://github.com/Francisc17/Hearth-Disease-Interpretability-Research)
+### [Interpretable Heart Disease Machine Learning Classifier](https://github.com/Francisc17/Hearth-Disease-Interpretability-Research)
 
 An analysis of clinical data to predict heart disease in patients. The solution focuses on creating an ML model capable of predicting the disease and showing how the algorithm arrived at its prediction. <br>
 
