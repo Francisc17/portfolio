@@ -64,7 +64,7 @@ Using Transformers to create an English translator for Cherokee. Different techn
 
 
 ### [Interpretation of Convolutional Neural Networks (CNNs)](https://github.com/Francisc17/CNN-Interpretation)
-Convolutional Neural Network (CNN) interpretation techniques are methods used to gain insights into the decision-making process of CNNs, which are popular deep learning models for tasks like image classification. This work explored nine different techniques for interpreting the network internally and the output it generates. The interpretation techniques used were: GradCAM, Lime, Rise, Saliency Maps, Anchor Explanations, Activation Maximization, Occlusion Sensitivity, Guided Backpropagation, Deep Dream. <br>
+Convolutional Neural Network (CNN) interpretation techniques are methods used to gain insights into the decision-making process of CNNs, which are popular deep learning models for tasks like image classification. The interpretation techniques used were: GradCAM, Lime, Rise, Saliency Maps, Anchor Explanations, Activation Maximization, Occlusion Sensitivity, Guided Backpropagation, Deep Dream. <br>
 
 <div>
     <img src="assets/check.png" alt="Checkmark" style="width: 15px; vertical-align: middle; margin-right: 5px;">
