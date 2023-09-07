@@ -66,7 +66,7 @@ A comparative study on the combination of SMOTE oversampling technique variants 
 
 I have a strong passion for continuous learning, with a primary focus on Data Science and Machine Learning. However, I also find great joy in exploring diverse subjects across various domains to expand my knowledge base. My commitment to learning extends to meticulous note-taking, where I document concepts in practice and theory from a wide range of sources, including papers, web articles, books, online courses, and other valuable learning resources. <br>
 
-Learning Notes available on: [https://github.com/Francisc17/Learning_Notes](https://github.com/Francisc17/Learning_Notes)
+**Learning Notes available on:** [https://github.com/Francisc17/Learning_Notes](https://github.com/Francisc17/Learning_Notes)
 
 ---
 
