@@ -70,12 +70,50 @@ I have a strong passion for continuous learning, with a primary focus on Data Sc
 
 ---
 
-## Non-technical Skills
+## Skills
 
-A section on your non-technical skills.
+- Machine Learning <span style="background-color: #ff5733; padding: 2px 8px; color: white;">Advanced</span>
+- Deep Learning <span style="background-color: #ff5733; padding: 2px 8px; color: white;">Advanced</span>
+- Data Pipelines <span style="background-color: #ffa533; padding: 2px 8px; color: white;">Intermediate</span>
+- Data Analysis <span style="background-color: #ffa533; padding: 2px 8px; color: white;">Intermediate</span>
+- Scientific Research <span style="background-color: #ffcc33; padding: 2px 8px; color: white;">Beginner</span>
+- Software Development <span style="background-color: #ffcc33; padding: 2px 8px; color: white;">Beginner</span>
+- Software Design <span style="background-color: #ffcc33; padding: 2px 8px; color: white;">Beginner</span>
+- Databases <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
+- APIs <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
+- ETL <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
 
 ---
 
-## Technical Skills
+## Tools & Technologies
 
-A section on your technical skills.
+- Python <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
+- Pandas <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
+- Tensorflow <span style="background-color: #ffa533; padding: 2px 8px; color: white;">Intermediate</span>
+- PyCaret <span style="background-color: #ffa533; padding: 2px 8px; color: white;">Intermediate</span>
+- Scikit-learn <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
+- SHAP <span style="background-color: #ffa533; padding: 2px 8px; color: white;">Intermediate</span>
+- Seaborn <span style="background-color: #ffa533; padding: 2px 8px; color: white;">Intermediate</span>
+- Gradio <span style="background-color: #ffa533; padding: 2px 8px; color: white;">Intermediate</span>
+- PyTorch <span style="background-color: #ffa533; padding: 2px 8px; color: white;">Intermediate</span>
+- Hugging Face <span style="background-color: #ffa533; padding: 2px 8px; color: white;">Intermediate</span>
+- C# <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
+- .NET <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
+- Java <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
+- JavaScript <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
+- Git <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
+- MySQL <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
+- Angular <span style="background-color: #ffa533; padding: 2px 8px; color: white;">Intermediate</span>
+- Firebase ML <span style="background-color: #ffa533; padding: 2px 8px; color: white;">Intermediate</span>
+
+---
+
+## Non-technical Skills
+
+- Desire to Learn
+- Organization
+- Motivation
+- Problem Solving
+- Team Work
+- Communication
+- Adaptability
