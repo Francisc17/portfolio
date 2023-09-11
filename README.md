@@ -81,7 +81,7 @@ I have a strong passion for continuous learning, with a primary focus on Data Sc
 ## Programming Languages
 
 <div align="center">
-    <img src="assets/P_Languages.png" alt="Skills Assessment" width="100%" style="border-radius: 0;">
+    <img src="assets/P_Languages.png" alt="Skills Assessment" style="border-radius: 0;">
 </div>
 
 --
