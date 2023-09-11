@@ -81,36 +81,20 @@ I have a strong passion for continuous learning, with a primary focus on Data Sc
 ## Programming Languages
 
 <div align="center">
-    <img src="assets/Prog_Languages.png" alt="Skills Assessment" style="border-radius: 0;">
+    <img src="assets/Prog_Languages.png" alt="Programming Languages" style="border-radius: 0;">
 </div>
-
---
-
-
-## Tools & Technologies
-
-- Python <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
-- Pandas <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
-- Tensorflow <span style="background-color: #ffa533; padding: 2px 8px; color: white;">Intermediate</span>
-- PyCaret <span style="background-color: #ffa533; padding: 2px 8px; color: white;">Intermediate</span>
-- Scikit-learn <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
-- SHAP <span style="background-color: #ffa533; padding: 2px 8px; color: white;">Intermediate</span>
-- Seaborn <span style="background-color: #ffa533; padding: 2px 8px; color: white;">Intermediate</span>
-- Gradio <span style="background-color: #ffa533; padding: 2px 8px; color: white;">Intermediate</span>
-- PyTorch <span style="background-color: #ffa533; padding: 2px 8px; color: white;">Intermediate</span>
-- Hugging Face <span style="background-color: #ffa533; padding: 2px 8px; color: white;">Intermediate</span>
-- C# <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
-- .NET <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
-- Java <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
-- JavaScript <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
-- Git <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
-- MySQL <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
-- Angular <span style="background-color: #ffa533; padding: 2px 8px; color: white;">Intermediate</span>
-- Firebase ML <span style="background-color: #ffa533; padding: 2px 8px; color: white;">Intermediate</span>
 
 ---
 
-## Non-technical Skills
+## Data Science libraries and frameworks
+
+<div align="center">
+    <img src="assets/Libraries_Frameworks.png" alt="Libraries Frameworks" style="border-radius: 0;">
+</div>
+
+---
+
+## Soft Skills
 
 - Desire to Learn
 - Organization
