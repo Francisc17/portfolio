@@ -1,4 +1,3 @@
-# Francisco Mesquita
 
 <div align="center">
     <img src="assets/ProfilePic.jpg" alt="Image" width="150px" height="auto" style="border-radius: 50%;">
