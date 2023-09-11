@@ -78,6 +78,15 @@ I have a strong passion for continuous learning, with a primary focus on Data Sc
 
 ---
 
+## Programming Languages
+
+<div align="center">
+    <img src="assets/PLanguages.png" alt="Skills Assessment" width="100%" style="border-radius: 0;">
+</div>
+
+--
+
+
 ## Tools & Technologies
 
 - Python <span style="background-color: #33ff33; padding: 2px 8px; color: white;">Expert</span>
