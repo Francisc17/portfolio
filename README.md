@@ -80,7 +80,7 @@ I have a strong passion for continuous learning, with a primary focus on Data Sc
 ## Programming Languages
 
 <div align="center">
-    <img src="assets/Pro_Languages.png" alt="Programming Languages" style="border-radius: 0;">
+    <img src="assets/Progr_Languages.png" alt="Programming Languages" style="border-radius: 0;">
 </div>
 
 ---
