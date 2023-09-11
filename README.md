@@ -96,10 +96,6 @@ I have a strong passion for continuous learning, with a primary focus on Data Sc
 
 ## Soft Skills
 
-- Desire to Learn
-- Organization
-- Motivation
-- Problem Solving
-- Team Work
-- Communication
-- Adaptability
+<div align="center">
+    <img src="assets/Soft_skills.png" alt="Soft Skills" style="border-radius: 0;">
+</div>
