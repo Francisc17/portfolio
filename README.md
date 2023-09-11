@@ -72,26 +72,9 @@ I have a strong passion for continuous learning, with a primary focus on Data Sc
 
 ## Skills
 
-<table>
-  <tr>
-    <td style="background-color: #ff5733; color: white; padding: 10px;">Machine Learning</td>
-    <td style="background-color: #ff5733; color: white; padding: 10px;">Deep Learning</td>
-    <td style="background-color: #ffa533; color: white; padding: 10px;">Data Pipelines</td>
-    <td style="background-color: #ffa533; color: white; padding: 10px;">Data Analysis</td>
-  </tr>
-  <tr>
-    <td style="background-color: #ffcc33; color: white; padding: 10px;">Scientific Research</td>
-    <td style="background-color: #ffcc33; color: white; padding: 10px;">Software Development</td>
-    <td style="background-color: #ffcc33; color: white; padding: 10px;">Software Design</td>
-    <td style="background-color: #33ff33; color: white; padding: 10px;">Databases</td>
-  </tr>
-  <tr>
-    <td style="background-color: #33ff33; color: white; padding: 10px;">APIs</td>
-    <td style="background-color: #33ff33; color: white; padding: 10px;">ETL</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+<div align="center">
+    <img src="assets/Skills.png" alt="Skills Assessment" width="100%" style="border-radius: 0;">
+</div>
 
 ---
 
