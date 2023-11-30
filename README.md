@@ -39,7 +39,7 @@ Using Transformers to create an English to Cherokee translator, exploring differ
 
 ---
 
-## Research
+## Scientific Research
 
 ### [Depression Detection Using Deep Learning and Natural Language Processing Techniques: A Comparative Study](https://link.springer.com/chapter/10.1007/978-3-031-49018-7_24)
 
