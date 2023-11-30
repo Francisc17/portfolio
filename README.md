@@ -41,17 +41,23 @@ Using Transformers to create an English to Cherokee translator, exploring differ
 
 ## Research
 
-### [Predicting Type 2 Diabetes Through Machine Learning: Performance Analysis in Balanced and Imbalanced Data](https://link.springer.com/chapter/10.1007/978-3-030-86356-2_22)
+### [Depression Detection Using Deep Learning and Natural Language Processing Techniques: A Comparative Study](https://link.springer.com/chapter/10.1007/978-3-031-49018-7_24)
 
-Addressing the prediction of Type 2 diabetes using the "PIMA Indians Diabetes" dataset. The study involves creating a balanced dataset and evaluating various machine learning methods.
+This research suggests the use of Natural Language Processing (NLP) techniques to spot signs of depression in tweets, finding success with an 84.83% accuracy using a method called Extra Trees combined with TF-IDF feature extraction method.
 
-**Presented at the International Symposium on Ubiquitous Networking on 11 December 2021.**
+**Presented at CIARP 2023: Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications on 29 November 2023**
 
 ### [Oversampling Techniques for Diabetes Classification: a Comparative Study](https://ieeexplore.ieee.org/abstract/document/9657542)
 
 A comparative study on the combination of SMOTE oversampling technique variants and machine learning algorithms for diabetes prediction using the unbalanced "PIMA Indian Diabetes" dataset.
 
 **Presented at the 2021 International Conference on e-Health and Bioengineering (EHB) on 31 December 2021.**
+
+### [Predicting Type 2 Diabetes Through Machine Learning: Performance Analysis in Balanced and Imbalanced Data](https://link.springer.com/chapter/10.1007/978-3-030-86356-2_22)
+
+Addressing the prediction of Type 2 diabetes using the "PIMA Indians Diabetes" dataset. The study involves creating a balanced dataset and evaluating various machine learning methods.
+
+**Presented at the International Symposium on Ubiquitous Networking on 11 December 2021.**
 
 ---
 
