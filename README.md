@@ -41,12 +41,6 @@ Using Transformers to create an English to Cherokee translator, exploring differ
 
 ## Scientific Research
 
-<div style="background-color: #f2f2f2; padding: 10px; border-left: 6px solid #87a66a;">
-    <p>
-        ORCID: https://orcid.org/my-orcid?orcid=0000-0001-7000-6967
-    </p>
-</div>
-
 ### [Machine learning techniques to predict the risk of developing diabetic nephropathy: a literature review](https://link.springer.com/article/10.1007/s40200-023-01357-4)
 
 Conducted research on Machine Learning approaches to enhance Diabetic Nephropathy risk prediction through comprehensive temporal analysis of clinical data, emphasizing the crucial integration of Electronic Health Records for more reliable models.
@@ -71,8 +65,8 @@ Addressing the prediction of Type 2 diabetes using the "PIMA Indians Diabetes" d
 
 **Presented at the International Symposium on Ubiquitous Networking on 11 December 2021.**
 
+**ORCID:** [https://orcid.org/my-orcid?orcid=0000-0001-7000-6967](https://orcid.org/my-orcid?orcid=0000-0001-7000-6967)
 ---
-
 ## Learning
 
 <div style="background-color: #f2f2f2; padding: 10px; border-left: 6px solid #87a66a;">
