@@ -3,7 +3,7 @@
     <img src="assets/ProfilePic.jpg" alt="Image" width="150px" height="auto" style="border-radius: 50%;">
 </div>
 
-I am a highly motivated computer engineer, holding a degree from the Polytechnic of Coimbra, currently pursuing a master's in Computer Engineering with a specialization in Intelligent Data Analysis. My academic journey has instilled in me a deep passion for autonomous and continuous learning.
+I am a highly motivated computer engineer, holding a Master's Degree in Computer Engineering with a specialization in Intelligent Data Analysis from Polytechnic of Coimbra. My academic journey has also instilled in me a deep passion for autonomous and continuous learning.
 
 ---
 
