@@ -9,12 +9,6 @@ I am a highly motivated computer engineer, holding a degree from the Polytechnic
 
 ## Projects
 
-<div style="background-color: #f2f2f2; padding: 10px; border-left: 6px solid #87a66a;">
-    <p>
-        ORCID: https://orcid.org/my-orcid?orcid=0000-0001-7000-6967
-    </p>
-</div>
-
 ### [Interpretable Heart Disease Machine Learning Classifier](https://github.com/Francisc17/Hearth-Disease-Interpretability-Research)
 
 An analysis of clinical data to predict heart disease in patients. The solution focuses on creating an ML model capable of predicting the disease and showing how the algorithm arrived at its prediction.
@@ -46,6 +40,12 @@ Using Transformers to create an English to Cherokee translator, exploring differ
 ---
 
 ## Scientific Research
+
+<div style="background-color: #f2f2f2; padding: 10px; border-left: 6px solid #87a66a;">
+    <p>
+        ORCID: https://orcid.org/my-orcid?orcid=0000-0001-7000-6967
+    </p>
+</div>
 
 ### [Machine learning techniques to predict the risk of developing diabetic nephropathy: a literature review](https://link.springer.com/article/10.1007/s40200-023-01357-4)
 
