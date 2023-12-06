@@ -65,7 +65,8 @@ Addressing the prediction of Type 2 diabetes using the "PIMA Indians Diabetes" d
 
 **Presented at the International Symposium on Ubiquitous Networking on 11 December 2021.**
 
-**ORCID:** [https://orcid.org/my-orcid?orcid=0000-0001-7000-6967](https://orcid.org/my-orcid?orcid=0000-0001-7000-6967)
+**ORCID:**[https://orcid.org/my-orcid?orcid=0000-0001-7000-6967](https://orcid.org/my-orcid?orcid=0000-0001-7000-6967)
+
 ---
 ## Learning
 
