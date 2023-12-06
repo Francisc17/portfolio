@@ -9,6 +9,12 @@ I am a highly motivated computer engineer, holding a degree from the Polytechnic
 
 ## Projects
 
+<div style="background-color: #f2f2f2; padding: 10px; border-left: 6px solid #87a66a;">
+    <p>
+        ORCID: https://orcid.org/my-orcid?orcid=0000-0001-7000-6967
+    </p>
+</div>
+
 ### [Interpretable Heart Disease Machine Learning Classifier](https://github.com/Francisc17/Hearth-Disease-Interpretability-Research)
 
 An analysis of clinical data to predict heart disease in patients. The solution focuses on creating an ML model capable of predicting the disease and showing how the algorithm arrived at its prediction.
