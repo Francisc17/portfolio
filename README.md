@@ -41,8 +41,9 @@ Using Transformers to create an English to Cherokee translator, exploring differ
 
 ## Scientific Research
 
-<div style="background-color: #f2f2f2; border-left: 6px solid #87a66a;">
-    **ORCID:** [https://orcid.org/my-orcid?orcid=0000-0001-7000-6967](https://orcid.org/my-orcid?orcid=0000-0001-7000-6967)
+<div style="background-color: #f2f2f2; padding: 5px; border-left: 6px solid #87a66a;">
+    <strong>ORCID:</strong>
+    <a href="https://orcid.org/my-orcid?orcid=0000-0001-7000-6967" target="_blank">https://orcid.org/my-orcid?orcid=0000-0001-7000-6967</a>
 </div>
 
 ### [Machine learning techniques to predict the risk of developing diabetic nephropathy: a literature review](https://link.springer.com/article/10.1007/s40200-023-01357-4)
