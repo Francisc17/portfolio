@@ -43,14 +43,14 @@ Using Transformers to create an English to Cherokee translator, exploring differ
 
 <div style="background-color: #f2f2f2; padding: 5px; border-left: 6px solid #87a66a;">
     <strong>ORCID:</strong>
-    <a href="https://orcid.org/my-orcid?orcid=0000-0001-7000-6967" target="_blank">0000-0001-7000-6967</a>
+    <a href="https://orcid.org/0000-0001-7000-6967" target="_blank">0000-0001-7000-6967</a>
 </div>
 
 ### [Machine learning techniques to predict the risk of developing diabetic nephropathy: a literature review](https://link.springer.com/article/10.1007/s40200-023-01357-4)
 
 Conducted research on Machine Learning approaches to enhance Diabetic Nephropathy risk prediction through comprehensive temporal analysis of clinical data, emphasizing the crucial integration of Electronic Health Records for more reliable models.
 
-**Published on Journal of Diabetes & Metabolic Disorders**
+**Published on Journal of Diabetes & Metabolic Disorders on 5 December 2023**
 
 ### [Depression Detection Using Deep Learning and Natural Language Processing Techniques: A Comparative Study](https://link.springer.com/chapter/10.1007/978-3-031-49018-7_24)
 
