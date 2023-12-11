@@ -28,7 +28,7 @@ Exploring techniques to interpret Convolutional Neural Networks (CNNs), popular 
 - **Tensorflow**: Deep Learning framework library
 - **OpenCV**: Open source library for computer vision
 
-### [Risk assessment for progression of Diabetic Nephropathy based on patient history analysis](https://comum.rcaap.pt/handle/10400.26/47587)
+### [Risk assessment for progression of Diabetic Nephropathy based on patient history analysis - Master's Dissertation](https://comum.rcaap.pt/handle/10400.26/47587)
 
 Longitudinal Machine Learning Modeling for Diabetic Nephropathy with a 22-year patient dataset tracked by the Portuguese Diabetes Association (APDP), enabling precise prediction of disease evolution and fostering personalized healthcare strategies.
 
