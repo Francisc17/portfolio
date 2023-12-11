@@ -28,6 +28,18 @@ Exploring techniques to interpret Convolutional Neural Networks (CNNs), popular 
 - **Tensorflow**: Deep Learning framework library
 - **OpenCV**: Open source library for computer vision
 
+### [Risk assessment for progression of Diabetic Nephropathy based on patient history analysis](https://comum.rcaap.pt/handle/10400.26/47587)
+
+Longitudinal Machine Learning Modeling for Diabetic Nephropathy with a 22-year patient dataset tracked by the Portuguese Diabetes Association (APDP), enabling precise prediction of disease evolution and fostering personalized healthcare strategies.
+
+- **Pandas, Sweetviz and Pandas Profiling**: Data manipulation and Exploratory Data Analysis (EDA) 
+- **Seaborn**: Data visualization
+- **scikit-learn**: Machine learning models
+- **PyCaret**: Automated machine learning
+- **SHapley Additive exPlanations (SHAP)**: Explainable AI
+- **Gradio:**: Interactive ML interface
+- **Hugging Face**: Hosting ML model
+
 ### [English to Cherokee Translator using Transformers](https://github.com/Francisc17/Translator-English-to-Cherokee)
 
 Using Transformers to create an English to Cherokee translator, exploring different pre-trained architectures like BERT and Helsinki NLP.
