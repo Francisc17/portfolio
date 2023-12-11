@@ -9,6 +9,18 @@ I am a highly motivated computer engineer, holding a Master's Degree in Computer
 
 ## Projects
 
+### [Risk assessment for progression of Diabetic Nephropathy based on patient history analysis - Master's Dissertation](https://comum.rcaap.pt/handle/10400.26/47587)
+
+Longitudinal Machine Learning Modeling for Diabetic Nephropathy with a 22-year patient dataset tracked by the Portuguese Diabetes Association (APDP), enabling precise prediction of disease evolution and fostering personalized healthcare strategies.
+
+- **Pandas, Sweetviz and Pandas Profiling**: Data manipulation and Exploratory Data Analysis (EDA) 
+- **Seaborn**: Data visualization
+- **scikit-learn**: Machine learning models
+- **PyCaret**: Automated machine learning
+- **SHapley Additive exPlanations (SHAP)**: Explainable AI
+- **Gradio:**: Interactive ML interface
+- **Hugging Face**: Hosting ML model
+
 ### [Interpretable Heart Disease Machine Learning Classifier](https://github.com/Francisc17/Hearth-Disease-Interpretability-Research)
 
 An analysis of clinical data to predict heart disease in patients. The solution focuses on creating an ML model capable of predicting the disease and showing how the algorithm arrived at its prediction.
@@ -27,18 +39,6 @@ Exploring techniques to interpret Convolutional Neural Networks (CNNs), popular 
 - **Seaborn**: Data visualization
 - **Tensorflow**: Deep Learning framework library
 - **OpenCV**: Open source library for computer vision
-
-### [Risk assessment for progression of Diabetic Nephropathy based on patient history analysis - Master's Dissertation](https://comum.rcaap.pt/handle/10400.26/47587)
-
-Longitudinal Machine Learning Modeling for Diabetic Nephropathy with a 22-year patient dataset tracked by the Portuguese Diabetes Association (APDP), enabling precise prediction of disease evolution and fostering personalized healthcare strategies.
-
-- **Pandas, Sweetviz and Pandas Profiling**: Data manipulation and Exploratory Data Analysis (EDA) 
-- **Seaborn**: Data visualization
-- **scikit-learn**: Machine learning models
-- **PyCaret**: Automated machine learning
-- **SHapley Additive exPlanations (SHAP)**: Explainable AI
-- **Gradio:**: Interactive ML interface
-- **Hugging Face**: Hosting ML model
 
 ### [English to Cherokee Translator using Transformers](https://github.com/Francisc17/Translator-English-to-Cherokee)
 
