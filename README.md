@@ -13,7 +13,7 @@ I am a highly motivated computer engineer, holding a Master's Degree in Computer
 
 Longitudinal Machine Learning Modeling for Diabetic Nephropathy with a 22-year patient dataset tracked by the Portuguese Diabetes Association (APDP), enabling precise prediction of disease evolution and fostering personalized healthcare strategies.
 
-- **Pandas, Sweetviz and Pandas Profiling**: Data manipulation and Exploratory Data Analysis (EDA) 
+- **Pandas, Sweetviz and Pandas Profiling**: Data manipulation and Exploratory Data Analysis
 - **Seaborn**: Data visualization
 - **scikit-learn**: Machine learning models
 - **PyCaret**: Automated machine learning
